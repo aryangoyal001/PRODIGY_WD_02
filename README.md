@@ -40,7 +40,7 @@ This Stopwatch Web Application includes:
 ---
 ## Demo
 
-Check out the live demo [here](https://sachinchaunal.github.io/Stopwatch_Web_Application/).
+Check out the live demo [here](https://aryangoyal001.github.io/PRODIGY_WD_02/).
 
 ---
 ## Author
