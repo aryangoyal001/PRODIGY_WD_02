@@ -38,7 +38,11 @@ This Stopwatch Web Application includes:
 - `README.md` → This description file
 
 ---
+## Demo
 
+Check out the live demo [here](https://sachinchaunal.github.io/Stopwatch_Web_Application/).
+
+---
 ## Author
 
 **Aryan Goyal**  
