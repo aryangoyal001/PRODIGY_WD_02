@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Enhanced Stopwatch</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+</head>
+<body class="light">
+  <div class="background"></div>
+  <div class="container glass">
+    <div class="top-bar">
+      <h1>⏱ Stopwatch</h1>
+      <button id="themeToggle">🌙</button>
+    </div>
+
+    <div id="display">00:00:00</div>
+    <div id="sinceLastLapDisplay">+00:00:00</div>
+
+    <div class="buttons">
+      <button id="toggle"><span id="icon">▶</span></button>
+      <button id="reset">🔁</button>
+      <button id="lap">📍</button>
+    </div>
+
+    <label class="toggle-option">
+      <input type="checkbox" id="splitToggle" />
+      Show Split Time
+    </label>
+
+    <ul id="laps"></ul>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
